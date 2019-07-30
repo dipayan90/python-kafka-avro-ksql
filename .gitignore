@@ -90,3 +90,6 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+kafka_2.12-2.2.0.tgz
+kafka_2.12-2.2.0/
